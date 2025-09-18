@@ -30,7 +30,7 @@ I love creating software that bridges the gap between complex functionality and 
 
 <details align="left"> <summary><h2><b>🛠️ My Tech Stack</b></h2></summary> <p> <h3>💻 Programming Languages</h3> <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,py,java,js,ts,html,css&perline=9" />
 
-```
+
 <h3>🔧 Frameworks & Libraries</h3>
 <img src="https://skillicons.dev/icons?i=unity,react,nodejs,spring,django,bootstrap,tailwind,cmake&perline=8" />
 
@@ -43,7 +43,7 @@ I love creating software that bridges the gap between complex functionality and 
 <h3>🎨 Design & Development Tools</h3>
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,neovim,figma,photoshop&perline=6" />
 <br>
-```
+
 
 </p> </details>
 
