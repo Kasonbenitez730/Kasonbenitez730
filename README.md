@@ -1,5 +1,7 @@
-<h1 align="center"> ![](https://github.com/Kasonbenitez730/Kasonbenitez730/blob/main/assets/hello.gif) Hello! I'm Kasonbenitez730 </h1> 
-![github-snake](https://github.com/Kasonbenitez730/Kasonbenitez730/blob/main/assets/github-snake.svg)
+<h1 align="center">  <img width="36" src="assets/hello.gif" /> Hello! I'm Kasonbenitez730 </h1> 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 
 
