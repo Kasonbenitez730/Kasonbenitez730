@@ -1,5 +1,5 @@
-<h1 align="center"> ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello! I'm Kasonbenitez730 </h1> 
-![github-snake](https://github.com/user-attachments/assets/3c8b57d8-0661-4fc3-90b4-1f581947789d)
+<h1 align="center"> ![](https://github.com/Kasonbenitez730/Kasonbenitez730/blob/main/assets/hello.gif) Hello! I'm Kasonbenitez730 </h1> 
+![github-snake](https://github.com/Kasonbenitez730/Kasonbenitez730/blob/main/assets/github-snake.svg)
 
 
 
